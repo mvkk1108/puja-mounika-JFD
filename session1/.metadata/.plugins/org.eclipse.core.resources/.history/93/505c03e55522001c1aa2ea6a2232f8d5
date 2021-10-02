@@ -1,0 +1,22 @@
+package modularprograming;
+
+public class Demo {
+public static void main(String[] args) {
+	
+	
+	// call isEven and greet methods
+	MathUtils mathUtils = new MathUtils();
+	
+	//boolean status = mathUtils.isEvenNumber(5); // method call  - binding
+	
+	if(mathUtils.isEvenNumber(5))
+	{
+	System.out.println("even number");	
+	}else
+	{
+		System.out.println("Odd Number");
+	}
+	
+	
+}
+}

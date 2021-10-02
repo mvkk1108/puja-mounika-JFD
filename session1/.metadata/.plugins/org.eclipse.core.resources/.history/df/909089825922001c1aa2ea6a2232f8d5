@@ -1,0 +1,15 @@
+package modularprograming;
+
+public class Demo1 {
+
+	public static void main(String[] args) {
+
+
+		
+		Addition addition = new Addition();
+		addition.add(3, 5);// static binding
+		
+
+	}
+
+}

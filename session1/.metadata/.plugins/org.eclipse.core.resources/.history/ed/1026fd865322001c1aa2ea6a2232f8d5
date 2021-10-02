@@ -1,0 +1,18 @@
+package modularprograming;
+
+public class MathUtils {
+	
+	public boolean isEven(int num) // should return boolean 
+	{
+	
+		if(num % 2 == 0)
+			return true;
+		else
+		return false;
+	}
+
+    public void	greet(String name) // returns nothing
+    {
+    	
+    }
+}

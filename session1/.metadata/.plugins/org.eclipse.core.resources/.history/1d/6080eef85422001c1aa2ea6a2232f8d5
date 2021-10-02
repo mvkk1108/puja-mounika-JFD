@@ -1,0 +1,12 @@
+package modularprograming;
+
+public class Demo {
+public static void main(String[] args) {
+	
+	
+	// call isEven and greet methods
+	MathUtils mathUtils = new MathUtils();
+	
+	mathUtils.isEvenNumber(5.0);
+}
+}

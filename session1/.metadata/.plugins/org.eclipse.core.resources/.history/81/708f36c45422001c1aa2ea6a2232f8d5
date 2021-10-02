@@ -1,0 +1,10 @@
+package modularprograming;
+
+public class Demo {
+public static void main(String[] args) {
+	
+	
+	// call isEven and greet methods
+	MathUtils mu = new MathUtils();
+}
+}

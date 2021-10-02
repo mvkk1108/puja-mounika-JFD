@@ -1,0 +1,15 @@
+package modularprograming;
+
+public class MathUtils {
+	
+	public boolean isEven(int num) // should return boolean 
+	{
+	
+		return true;
+	}
+
+    public void	greet(String name) // returns nothing
+    {
+    	
+    }
+}
